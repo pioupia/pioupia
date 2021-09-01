@@ -22,7 +22,7 @@
 **I'm currently learning :**
 ---
 <code><img height="20" alt="Vue" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" alt="C++" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code
-<code><img height="20" alt="Rust" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/1200px-Rust_programming_language_black_logo.svg.png" style="-webkit-filter: invert(100%);filter: invert(100%);"></code>
+<code><img height="20" alt="C++" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code style="-webkit-filter: invert(100%);filter: invert(100%);"><img height="20" alt="Rust" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/1200px-Rust_programming_language_black_logo.svg.png"></code>
 
 ![](https://github-readme-stats.vercel.app/api?username=pioupia&show_icons=true&theme=synthwave)
