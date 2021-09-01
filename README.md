@@ -5,4 +5,4 @@
 - 🌱 I’m currently learning somes JS frameworks and other language like Rust.
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
-![](https://img.shields.io/github/stars/pioupia?style=for-the-badge)
+![](https://img.shields.io/github/stars/pioupia?style=for-the-badge) ![](https://img.shields.io/github/followers/pioupia?color=%23fd0&style=for-the-badge)
