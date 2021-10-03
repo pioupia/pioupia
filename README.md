@@ -2,7 +2,7 @@
 
 ## I'm student and web developer.
 
-- 🌱 I’m currently learning somes JS frameworks and other language like Rust.
+- 🌱 I’m currently learning somes JS frameworks and other language like C/C++.
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
 ![](https://img.shields.io/github/stars/pioupia?style=for-the-badge) ![](https://img.shields.io/github/followers/pioupia?color=%23fd0&style=for-the-badge) ![](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=pioupia&style=for-the-badge&color=f00)
@@ -21,8 +21,8 @@
 
 **I'm currently learning :**
 ---
+<code><img height="20" alt="Angular" src="https://1.bp.blogspot.com/-MwJI22_Ek_0/XJQEjL9WGjI/AAAAAAAAJSs/Kd9WAGTItDoTRoaIFLE8qwOrj3STIMbfQCK4BGAYYCw/s640/logo%2Bangular%2Bicon.png"></code>
+<code><img height="20" alt="C" src="http://pngimg.com/uploads/letter_c/letter_c_PNG22.png"></code>
 <code><img height="20" alt="Vue" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" alt="C++" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code style="-webkit-filter: invert(100%);filter: invert(100%);"><img height="20" alt="Rust" src="https://raw.githubusercontent.com/pioupia/pioupia/master/rust.png"></code>
 
 ![](https://github-readme-stats.vercel.app/api?username=pioupia&show_icons=true&theme=synthwave)
