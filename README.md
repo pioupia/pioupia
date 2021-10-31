@@ -35,6 +35,6 @@ I created a plugin for developers to make their life easier to make an A2F check
 <img height="120" alt="Auto input a2f" title="Auto Input A2F" src="https://raw.githubusercontent.com/pioupia/auto-input-a2f/main/assets/autoinputa2f.gif">
 
 
-### Auto input A2F (open-source) - August 2021 :
-I created a plugin for developers to make their life easier to make an A2F checker on the frond-end side (without checking).
-<img height="120" alt="Auto input a2f" title="Auto Input A2F" src="https://raw.githubusercontent.com/pioupia/auto-input-a2f/main/assets/autoinputa2f.gif">
+### Puissance 4 (open-source) - October 2021 :
+I created for my courses a Puissance 4 game in python 3. You can play at the puissance 4 game in your cmd now !
+<img height="120" alt="Puissance 4" title="Puissance 4" src="https://raw.githubusercontent.com/pioupia/auto-input-a2f/main/assets/autoinputa2f.gif">
