@@ -30,13 +30,19 @@
 **My projects :**
 ---
 
-### Auto input A2F (open-source) - August 2021 :
+### [Auto input A2F](https://github.com/pioupia/auto-input-a2f) (open-source) - August 2021 :
 I created a plugin for developers to make their life easier to make an A2F checker on the frond-end side (without checking).
 <br>
 <img height="120" alt="Auto input a2f" title="Auto Input A2F" src="https://raw.githubusercontent.com/pioupia/auto-input-a2f/main/assets/autoinputa2f.gif">
 
 
-### Puissance 4 (open-source) - October 2021 :
+### [Puissance 4](https://github.com/pioupia/puissance4.py) (open-source) - October 2021 :
 I created for my courses a Puissance 4 game in python 3. You can play at the puissance 4 game in your cmd now !
 <br>
 <img height="120" alt="Puissance 4" title="Puissance 4" src="https://raw.githubusercontent.com/pioupia/pioupia/master/img/gif_python.gif">
+
+### [ServerTools website](https://servertools-bot.xyz) - October 2021 :
+I created a website for the `ServerTools` Discord bot.
+<br>
+<img height="120" alt="ServerTools" title="ServerTools" src="https://raw.githubusercontent.com/pioupia/pioupia/master/img/servertools_1.gif">
+<img height="120" alt="ServerTools" title="ServerTools" src="https://raw.githubusercontent.com/pioupia/pioupia/master/img/servertools_2.gif">
