@@ -45,8 +45,14 @@ I created a website for the `ServerTools` Discord bot.
 ### [Course Recorder](https://github.com/pioupia/course-recorder) (open-source) - August 2022 :
 A mobile App in Java for Android to record all it's trips in bike or by foot for instance.
 
+### [Astro docs](https://github.com/pioupia/astro-docs) (contribution to open-source) - August 2022 :
+I translate the Astro documentation into French for the greatest pleasure of the developers with a beret and a baguette.
+
 ### [Game of life](https://github.com/pioupia/game-of-life.py) (open-source) - September 2022 :
 I created a small Game Of Life in Python with Tkinter (but the project was created in octobre 2021).
+
+### [Shell](https://github.com/pioupia/shell) (open-source) - December 2022 :
+I created a small shell because, why not. This is a shell project *for fun*, so please, dont use it for works or anything else.
 
 
 ---
