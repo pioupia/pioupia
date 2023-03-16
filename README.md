@@ -2,8 +2,7 @@
 
 ## I'm student and web developer.
 
-- 🌱 I’m currently learning somes JS frameworks and other language like C/C++.
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 
 ![](https://img.shields.io/github/stars/pioupia?style=for-the-badge) ![](https://img.shields.io/github/followers/pioupia?color=%23fd0&style=for-the-badge) ![](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=pioupia&style=for-the-badge&color=f00)
 
