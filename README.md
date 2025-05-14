@@ -1,8 +1,6 @@
 ### Hi there, I'm [Pioupia](https://pioupia.github.io/portfolio) 👋
 
-## I'm student and web developer.
-
-- 🥅 2023 Goals: Contribute more to Open Source projects
+## I'm student and learn offensive cybersecurity
 
 ![](https://img.shields.io/github/stars/pioupia?style=for-the-badge) ![](https://img.shields.io/github/followers/pioupia?color=%23fd0&style=for-the-badge) ![](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=pioupia&style=for-the-badge&color=f00)
 
